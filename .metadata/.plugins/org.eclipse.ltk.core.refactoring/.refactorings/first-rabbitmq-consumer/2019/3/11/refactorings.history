@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;PictureImageConsumer.java&apos; to &apos;rabbitmq-consumer/src/main/java/com.course.rabbitmqconsumer.consumer&apos;&#x0D;&#x0A;- Original project: &apos;rabbitmq-consumer&apos;&#x0D;&#x0A;- Destination element: &apos;rabbitmq-consumer/src/main/java/com.course.rabbitmqconsumer.consumer&apos;&#x0D;&#x0A;- Original element: &apos;com.course.rabbitmqconsumer.consumer.PictureImageConsumer.java&apos;" description="Copy compilation unit" destination="/src\/main\/java&lt;com.course.rabbitmqconsumer.consumer" element1="/src\/main\/java&lt;com.course.rabbitmqconsumer.consumer{PictureImageConsumer.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1552416013046" units="1" version="1.0"/>
+</session>

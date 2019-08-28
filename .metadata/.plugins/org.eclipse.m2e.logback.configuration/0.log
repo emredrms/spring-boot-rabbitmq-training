@@ -1,0 +1,652 @@
+2019-03-03 21:08:08,095 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-04 21:51:23,588 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-05 21:11:13,230 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-12 21:09:25,500 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-13 13:51:41,556 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-13 21:24:44,319 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-13 21:38:11,761 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\pom.xml
+2019-03-13 21:38:12,576 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rabbit.exercise:rabbit-mq-exercise:1.0.0 @ C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\pom.xml.
+2019-03-13 21:38:13,103 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rabbit-mq-exercise/src/main/java
+2019-03-13 21:38:13,108 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rabbit-mq-exercise/src/test/java
+2019-03-13 21:38:13,183 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2019-03-13 21:38:13,611 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:38:13,611 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:38:13,613 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:38:13,613 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:38:28,023 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:38:28,023 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:38:28,024 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:38:28,024 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:38:52,631 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rabbit.exercise:rabbit-mq-exercise:1.0.0 @ C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\pom.xml.
+2019-03-13 21:38:52,789 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:38:52,790 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:38:52,791 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:38:52,791 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:38:54,048 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:38:54,049 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:38:54,050 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:38:54,051 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:39:05,130 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rabbit.exercise:rabbit-mq-exercise:1.0.0 @ C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\pom.xml.
+2019-03-13 21:39:10,719 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-03-13 21:39:10,967 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/rabbitmq/amqp-client/5.6.0/amqp-client-5.6.0.pom
+2019-03-13 21:39:11,107 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/rabbitmq/amqp-client/5.6.0/amqp-client-5.6.0.pom
+2019-03-13 21:39:11,220 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/rabbitmq/amqp-client/5.6.0/amqp-client-5.6.0.jar
+2019-03-13 21:39:12,893 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/rabbitmq/amqp-client/5.6.0/amqp-client-5.6.0.jar
+2019-03-13 21:39:13,059 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:39:13,060 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:39:13,061 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:39:13,061 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:39:13,452 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:39:13,452 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:39:13,453 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:39:13,453 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:39:18,893 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise
+2019-03-13 21:39:18,893 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U -Dmaven.test.skip=true -DskipTests clean install
+2019-03-13 21:39:36,299 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rabbit.exercise:rabbit-mq-exercise:1.0.0 @ C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\pom.xml.
+2019-03-13 21:39:36,525 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:39:36,526 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:39:36,527 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:39:36,527 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:39:37,824 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:39:37,825 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:39:37,827 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:39:37,827 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:39:43,632 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rabbit.exercise:rabbit-mq-exercise:1.0.0 @ C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\pom.xml.
+2019-03-13 21:39:43,747 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:39:43,747 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:39:43,749 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:39:43,749 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:39:47,534 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-13 21:39:47,582 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise
+2019-03-13 21:39:47,583 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U -Dmaven.test.skip=true -DskipTests clean install
+2019-03-13 21:39:58,778 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-13 21:39:59,052 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rabbit.exercise:rabbit-mq-exercise:1.0.0 @ C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\pom.xml.
+2019-03-13 21:39:59,369 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rabbit-mq-exercise/src/main/java
+2019-03-13 21:39:59,370 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rabbit-mq-exercise/src/test/java
+2019-03-13 21:39:59,474 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-03-13 21:39:59,616 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:39:59,617 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:39:59,618 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:39:59,618 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:40:52,358 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:40:52,358 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:40:52,358 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:40:52,359 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:41:31,781 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:41:31,782 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:41:31,782 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:41:31,783 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:42:07,714 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:42:07,715 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:42:07,715 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:42:07,715 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:43:31,898 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:43:31,899 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:43:31,899 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:43:31,900 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:44:56,363 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:44:56,363 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:44:56,364 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:44:56,365 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:45:13,314 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:45:13,315 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:45:13,316 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:45:13,316 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:48:49,262 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:48:49,262 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:48:49,264 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:48:49,264 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:49:07,959 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:49:07,959 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:49:07,960 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:49:07,960 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:49:39,865 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:49:39,866 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:49:39,867 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:49:39,868 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:50:46,657 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:50:46,658 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:50:46,660 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:50:46,660 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:50:51,809 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:50:51,809 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:50:51,810 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:50:51,810 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:52:09,745 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rabbit.exercise:rabbit-mq-exercise:1.0.0 @ C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\pom.xml.
+2019-03-13 21:52:11,250 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.pom
+2019-03-13 21:52:11,334 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.pom
+2019-03-13 21:52:11,430 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.8.0-beta4/slf4j-parent-1.8.0-beta4.pom
+2019-03-13 21:52:11,562 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.8.0-beta4/slf4j-parent-1.8.0-beta4.pom
+2019-03-13 21:52:11,630 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar
+2019-03-13 21:52:11,762 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar
+2019-03-13 21:52:11,980 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:52:11,980 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:52:11,982 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:52:11,982 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:52:13,303 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:52:13,303 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:52:13,304 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:52:13,304 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:52:49,600 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rabbit.exercise:rabbit-mq-exercise:1.0.0 @ C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\pom.xml.
+2019-03-13 21:52:50,064 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/1.8.0-beta4/slf4j-simple-1.8.0-beta4.pom
+2019-03-13 21:52:50,254 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/1.8.0-beta4/slf4j-simple-1.8.0-beta4.pom
+2019-03-13 21:52:50,319 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/1.8.0-beta4/slf4j-simple-1.8.0-beta4.jar
+2019-03-13 21:52:50,502 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/1.8.0-beta4/slf4j-simple-1.8.0-beta4.jar
+2019-03-13 21:52:50,638 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:52:50,639 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:52:50,640 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:52:50,640 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:52:51,857 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:52:51,857 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:52:51,858 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:52:51,858 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:53:00,719 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-13 21:53:00,769 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise
+2019-03-13 21:53:00,770 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U -Dmaven.test.skip=true -DskipTests clean install
+2019-03-13 21:53:11,360 [Worker-27] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-13 21:53:11,608 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rabbit.exercise:rabbit-mq-exercise:1.0.0 @ C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\pom.xml.
+2019-03-13 21:53:11,839 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rabbit-mq-exercise/src/main/java
+2019-03-13 21:53:11,840 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rabbit-mq-exercise/src/test/java
+2019-03-13 21:53:11,916 [Worker-27] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-03-13 21:53:12,124 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:53:12,125 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:53:12,126 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:53:12,126 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:53:29,589 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-13 21:53:29,800 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rabbit.exercise:rabbit-mq-exercise:1.0.0 @ C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\pom.xml.
+2019-03-13 21:53:29,902 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rabbit-mq-exercise/src/main/java
+2019-03-13 21:53:29,903 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rabbit-mq-exercise/src/test/java
+2019-03-13 21:53:29,966 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-03-13 21:53:30,143 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:53:30,143 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:53:30,144 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:53:30,145 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:54:52,761 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:54:52,761 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:54:52,762 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:54:52,763 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:58:20,282 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:58:20,282 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:58:20,283 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:58:20,283 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:58:47,464 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:58:47,464 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:58:47,465 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:58:47,465 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:59:49,890 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/rabbitmq/amqp-client/5.6.0/amqp-client-5.6.0-sources.jar
+2019-03-13 21:59:50,384 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/rabbitmq/amqp-client/5.6.0/amqp-client-5.6.0-sources.jar
+2019-03-13 21:59:50,430 [Worker-37] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.rabbitmq:amqp-client:5.6.0
+2019-03-13 21:59:50,604 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:59:50,605 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:59:50,605 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:59:50,606 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:59:52,627 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:59:52,627 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:59:52,628 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:59:52,628 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 21:59:54,657 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:59:54,657 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 21:59:54,658 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 21:59:54,658 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 22:00:41,938 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 22:00:41,938 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 22:00:41,940 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 22:00:41,941 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 22:00:51,188 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 22:00:51,189 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 22:00:51,190 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 22:00:51,191 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 22:02:13,752 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 22:02:13,752 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 22:02:13,753 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 22:02:13,753 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 22:02:25,713 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 22:02:25,713 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 22:02:25,714 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 22:02:25,714 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 22:02:35,414 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-13 22:02:37,124 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise
+2019-03-13 22:02:37,124 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U -Dmaven.test.skip=true -DskipTests clean install
+2019-03-13 22:02:46,756 [Worker-38] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-13 22:02:46,980 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rabbit.exercise:rabbit-mq-exercise:1.0.0 @ C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\pom.xml.
+2019-03-13 22:02:47,243 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rabbit-mq-exercise/src/main/java
+2019-03-13 22:02:47,243 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rabbit-mq-exercise/src/test/java
+2019-03-13 22:02:47,318 [Worker-38] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-03-13 22:02:52,971 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 22:02:52,972 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 22:02:52,973 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 22:02:52,973 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 22:40:55,991 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 22:40:55,991 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 22:40:55,992 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 22:40:55,992 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 23:00:38,777 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 23:00:38,777 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 23:00:38,778 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 23:00:38,778 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-13 23:04:59,982 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 23:04:59,982 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-13 23:04:59,982 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 23:04:59,982 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-15 09:40:39,336 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-15 09:47:09,149 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.sample.rabbitmq:spring-sample-rabbitmq:0.0.1-SNAPSHOT @ C:\workspace\Exercise\spring-boot-rabbitmq-training\spring-sample-rabbitmq\pom.xml.
+2019-03-15 09:47:09,872 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-amqp/2.1.3.RELEASE/spring-boot-starter-amqp-2.1.3.RELEASE.pom
+2019-03-15 09:47:09,947 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-amqp/2.1.3.RELEASE/spring-boot-starter-amqp-2.1.3.RELEASE.pom
+2019-03-15 09:47:10,160 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-messaging/5.1.5.RELEASE/spring-messaging-5.1.5.RELEASE.pom
+2019-03-15 09:47:10,234 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-messaging/5.1.5.RELEASE/spring-messaging-5.1.5.RELEASE.pom
+2019-03-15 09:47:10,313 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/amqp/spring-rabbit/2.1.4.RELEASE/spring-rabbit-2.1.4.RELEASE.pom
+2019-03-15 09:47:10,387 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/amqp/spring-rabbit/2.1.4.RELEASE/spring-rabbit-2.1.4.RELEASE.pom
+2019-03-15 09:47:10,463 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/amqp/spring-amqp/2.1.4.RELEASE/spring-amqp-2.1.4.RELEASE.pom
+2019-03-15 09:47:10,538 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/amqp/spring-amqp/2.1.4.RELEASE/spring-amqp-2.1.4.RELEASE.pom
+2019-03-15 09:47:10,623 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/rabbitmq/amqp-client/5.4.3/amqp-client-5.4.3.pom
+2019-03-15 09:47:10,833 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/rabbitmq/amqp-client/5.4.3/amqp-client-5.4.3.pom
+2019-03-15 09:47:11,100 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-amqp/2.1.3.RELEASE/spring-boot-starter-amqp-2.1.3.RELEASE.jar
+2019-03-15 09:47:11,188 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-amqp/2.1.3.RELEASE/spring-boot-starter-amqp-2.1.3.RELEASE.jar
+2019-03-15 09:47:11,259 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-messaging/5.1.5.RELEASE/spring-messaging-5.1.5.RELEASE.jar
+2019-03-15 09:47:11,733 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-messaging/5.1.5.RELEASE/spring-messaging-5.1.5.RELEASE.jar
+2019-03-15 09:47:11,810 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/amqp/spring-rabbit/2.1.4.RELEASE/spring-rabbit-2.1.4.RELEASE.jar
+2019-03-15 09:47:12,095 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/amqp/spring-rabbit/2.1.4.RELEASE/spring-rabbit-2.1.4.RELEASE.jar
+2019-03-15 09:47:12,171 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/amqp/spring-amqp/2.1.4.RELEASE/spring-amqp-2.1.4.RELEASE.jar
+2019-03-15 09:47:12,291 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/amqp/spring-amqp/2.1.4.RELEASE/spring-amqp-2.1.4.RELEASE.jar
+2019-03-15 09:47:12,384 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/rabbitmq/amqp-client/5.4.3/amqp-client-5.4.3.jar
+2019-03-15 09:47:12,699 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/rabbitmq/amqp-client/5.4.3/amqp-client-5.4.3.jar
+2019-03-15 09:47:13,652 [Worker-19] WARN  Sisu - Error injecting: org.apache.maven.plugins.jar.JarMojo
+java.lang.NoClassDefFoundError: Lorg/codehaus/plexus/archiver/jar/JarArchiver;
+	at java.lang.Class.getDeclaredFields0(Native Method) ~[na:1.8.0_171]
+	at java.lang.Class.privateGetDeclaredFields(Class.java:2583) ~[na:1.8.0_171]
+	at java.lang.Class.getDeclaredFields(Class.java:1916) ~[na:1.8.0_171]
+	at com.google.inject.spi.InjectionPoint.getInjectionPoints(InjectionPoint.java:675) ~[guice-4.0-no_aop.jar:na]
+	at com.google.inject.spi.InjectionPoint.forInstanceMethodsAndFields(InjectionPoint.java:380) ~[guice-4.0-no_aop.jar:na]
+	at com.google.inject.internal.ConstructorBindingImpl.getInternalDependencies(ConstructorBindingImpl.java:164) ~[guice-4.0-no_aop.jar:na]
+	at com.google.inject.internal.InjectorImpl.getInternalDependencies(InjectorImpl.java:613) [guice-4.0-no_aop.jar:na]
+	at com.google.inject.internal.InjectorImpl.cleanup(InjectorImpl.java:569) [guice-4.0-no_aop.jar:na]
+	at com.google.inject.internal.InjectorImpl.initializeJitBinding(InjectorImpl.java:555) [guice-4.0-no_aop.jar:na]
+	at com.google.inject.internal.InjectorImpl.createJustInTimeBinding(InjectorImpl.java:884) [guice-4.0-no_aop.jar:na]
+	at com.google.inject.internal.InjectorImpl.createJustInTimeBindingRecursive(InjectorImpl.java:805) [guice-4.0-no_aop.jar:na]
+	at com.google.inject.internal.InjectorImpl.getJustInTimeBinding(InjectorImpl.java:282) [guice-4.0-no_aop.jar:na]
+	at com.google.inject.internal.InjectorImpl.getBindingOrThrow(InjectorImpl.java:214) [guice-4.0-no_aop.jar:na]
+	at com.google.inject.internal.InjectorImpl.getProviderOrThrow(InjectorImpl.java:1006) [guice-4.0-no_aop.jar:na]
+	at com.google.inject.internal.InjectorImpl.getProvider(InjectorImpl.java:1038) [guice-4.0-no_aop.jar:na]
+	at com.google.inject.internal.InjectorImpl.getProvider(InjectorImpl.java:1001) [guice-4.0-no_aop.jar:na]
+	at com.google.inject.internal.InjectorImpl.getInstance(InjectorImpl.java:1051) [guice-4.0-no_aop.jar:na]
+	at org.eclipse.sisu.space.AbstractDeferredClass.get(AbstractDeferredClass.java:48) ~[org.eclipse.sisu.inject-0.3.2.jar:na]
+	at com.google.inject.internal.ProviderInternalFactory.provision(ProviderInternalFactory.java:81) [guice-4.0-no_aop.jar:na]
+	at com.google.inject.internal.InternalFactoryToInitializableAdapter.provision(InternalFactoryToInitializableAdapter.java:53) [guice-4.0-no_aop.jar:na]
+	at com.google.inject.internal.ProviderInternalFactory$1.call(ProviderInternalFactory.java:65) [guice-4.0-no_aop.jar:na]
+	at com.google.inject.internal.ProvisionListenerStackCallback$Provision.provision(ProvisionListenerStackCallback.java:115) [guice-4.0-no_aop.jar:na]
+	at org.eclipse.sisu.bean.BeanScheduler$Activator.onProvision(BeanScheduler.java:176) [org.eclipse.sisu.inject-0.3.2.jar:na]
+	at com.google.inject.internal.ProvisionListenerStackCallback$Provision.provision(ProvisionListenerStackCallback.java:126) [guice-4.0-no_aop.jar:na]
+	at com.google.inject.internal.ProvisionListenerStackCallback.provision(ProvisionListenerStackCallback.java:68) [guice-4.0-no_aop.jar:na]
+	at com.google.inject.internal.ProviderInternalFactory.circularGet(ProviderInternalFactory.java:63) [guice-4.0-no_aop.jar:na]
+	at com.google.inject.internal.InternalFactoryToInitializableAdapter.get(InternalFactoryToInitializableAdapter.java:45) [guice-4.0-no_aop.jar:na]
+	at com.google.inject.internal.InjectorImpl$2$1.call(InjectorImpl.java:1016) [guice-4.0-no_aop.jar:na]
+	at com.google.inject.internal.InjectorImpl.callInContext(InjectorImpl.java:1092) [guice-4.0-no_aop.jar:na]
+	at com.google.inject.internal.InjectorImpl$2.get(InjectorImpl.java:1012) [guice-4.0-no_aop.jar:na]
+	at org.eclipse.sisu.inject.Guice4$1.get(Guice4.java:162) [org.eclipse.sisu.inject-0.3.2.jar:na]
+	at org.eclipse.sisu.inject.LazyBeanEntry.getValue(LazyBeanEntry.java:81) [org.eclipse.sisu.inject-0.3.2.jar:na]
+	at org.eclipse.sisu.plexus.LazyPlexusBean.getValue(LazyPlexusBean.java:51) [org.eclipse.sisu.plexus-0.3.2.jar:na]
+	at org.codehaus.plexus.DefaultPlexusContainer.lookup(DefaultPlexusContainer.java:263) [org.eclipse.sisu.plexus-0.3.2.jar:na]
+	at org.codehaus.plexus.DefaultPlexusContainer.lookup(DefaultPlexusContainer.java:255) [org.eclipse.sisu.plexus-0.3.2.jar:na]
+	at org.apache.maven.plugin.internal.DefaultMavenPluginManager.getConfiguredMojo(DefaultMavenPluginManager.java:517) [maven-core-3.3.9.jar:3.3.9]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.getConfiguredMojo(MavenImpl.java:353) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.sonatype.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.reflectManifestGeneration(AbstractMavenArchiverConfigurator.java:441) [org.sonatype.m2e.mavenarchiver_0.17.2.201606141937-signed-20160830073346.jar:na]
+	at org.sonatype.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.generateManifest(AbstractMavenArchiverConfigurator.java:397) [org.sonatype.m2e.mavenarchiver_0.17.2.201606141937-signed-20160830073346.jar:na]
+	at org.sonatype.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:210) [org.sonatype.m2e.mavenarchiver_0.17.2.201606141937-signed-20160830073346.jar:na]
+	at org.sonatype.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:197) [org.sonatype.m2e.mavenarchiver_0.17.2.201606141937-signed-20160830073346.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.mavenProjectChanged(ProjectConfigurationManager.java:1036) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:300) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.configureNewMavenProjects(ProjectConfigurationManager.java:259) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$1.call(ProjectConfigurationManager.java:175) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$1.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:143) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.ImportMavenProjectsJob$1.doCreateMavenProjects(ImportMavenProjectsJob.java:68) [org.eclipse.m2e.core.ui_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectsOperation.run(AbstractCreateMavenProjectsOperation.java:73) [org.eclipse.m2e.core.ui_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.ImportMavenProjectsJob.runInWorkspace(ImportMavenProjectsJob.java:77) [org.eclipse.m2e.core.ui_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39) [org.eclipse.core.resources_3.12.0.v20170417-1558.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.3.v20180115-1757.jar:na]
+Caused by: java.lang.ClassNotFoundException: org.codehaus.plexus.archiver.jar.JarArchiver
+	at org.codehaus.plexus.classworlds.strategy.SelfFirstStrategy.loadClass(SelfFirstStrategy.java:50) ~[plexus-classworlds-2.5.2.jar:na]
+	at org.codehaus.plexus.classworlds.realm.ClassRealm.unsynchronizedLoadClass(ClassRealm.java:271) ~[plexus-classworlds-2.5.2.jar:na]
+	at org.codehaus.plexus.classworlds.realm.ClassRealm.loadClass(ClassRealm.java:247) ~[plexus-classworlds-2.5.2.jar:na]
+	at org.codehaus.plexus.classworlds.realm.ClassRealm.loadClass(ClassRealm.java:239) ~[plexus-classworlds-2.5.2.jar:na]
+	... 58 common frames omitted
+2019-03-15 09:47:25,752 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-03-15 09:47:32,409 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\Exercise\spring-boot-rabbitmq-training\spring-sample-rabbitmq
+2019-03-15 09:47:32,410 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U -Dmaven.test.skip=true -DskipTests clean install
+2019-03-15 09:48:51,172 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-15 09:48:51,242 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\Exercise\spring-boot-rabbitmq-training\spring-sample-rabbitmq
+2019-03-15 09:48:51,243 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U -Dmaven.test.skip=true -DskipTests clean install
+2019-03-15 09:51:01,382 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-15 09:51:01,546 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\Exercise\spring-boot-rabbitmq-training\spring-sample-rabbitmq
+2019-03-15 09:51:01,546 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U -Dmaven.test.skip=true -DskipTests clean install
+2019-03-15 09:51:15,592 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-15 09:51:15,648 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\Exercise\spring-boot-rabbitmq-training\spring-sample-rabbitmq
+2019-03-15 09:51:15,648 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U -Dmaven.test.skip=true -DskipTests clean install
+2019-03-15 09:52:09,232 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-15 09:52:09,282 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\Exercise\spring-boot-rabbitmq-training\spring-sample-rabbitmq
+2019-03-15 09:52:09,282 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U -Dmaven.test.skip=true -DskipTests clean install
+2019-03-15 09:52:30,784 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-15 09:52:31,233 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.sample.rabbitmq:spring-sample-rabbitmq:0.0.1-SNAPSHOT @ C:\workspace\Exercise\spring-boot-rabbitmq-training\spring-sample-rabbitmq\pom.xml.
+2019-03-15 09:52:32,046 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-sample-rabbitmq/src/main/java
+2019-03-15 09:52:32,047 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-sample-rabbitmq/src/main/resources
+2019-03-15 09:52:32,052 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-sample-rabbitmq/src/main/resources
+2019-03-15 09:52:32,056 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-sample-rabbitmq/src/test/java
+2019-03-15 09:52:32,311 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-03-15 10:04:36,405 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 10:04:36,410 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 10:04:36,421 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-15 10:04:36,424 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 10:04:36,425 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\spring-sample-rabbitmq\src\test\resources
+2019-03-15 10:30:42,756 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-15 10:30:42,766 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\Exercise\spring-boot-rabbitmq-training\spring-sample-rabbitmq
+2019-03-15 10:30:42,766 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U -Dmaven.test.skip=true -DskipTests clean install
+2019-03-15 10:31:09,663 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-15 10:31:09,719 [Worker-53] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\Exercise\spring-boot-rabbitmq-training\spring-sample-rabbitmq
+2019-03-15 10:31:09,719 [Worker-53] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U -Dmaven.test.skip=true -DskipTests clean install
+2019-03-15 10:31:48,955 [Worker-54] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\Exercise\spring-boot-rabbitmq-training\spring-sample-rabbitmq
+2019-03-15 10:31:48,955 [Worker-54] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-03-15 10:31:54,799 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-15 10:31:54,862 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\Exercise\spring-boot-rabbitmq-training\spring-sample-rabbitmq
+2019-03-15 10:31:54,862 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U -Dmaven.test.skip=true -DskipTests clean install
+2019-03-15 10:32:03,413 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 10:32:03,416 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 10:32:03,420 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-15 10:32:03,422 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 10:32:03,422 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\spring-sample-rabbitmq\src\test\resources
+2019-03-15 10:40:17,023 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 10:40:17,023 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 10:40:17,025 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-15 10:40:17,027 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 10:40:17,028 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\spring-sample-rabbitmq\src\test\resources
+2019-03-15 10:42:00,037 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-15 10:42:00,045 [Worker-62] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\Exercise\spring-boot-rabbitmq-training\spring-sample-rabbitmq
+2019-03-15 10:42:00,046 [Worker-62] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U -Dmaven.test.skip=true -DskipTests clean install
+2019-03-15 10:42:06,606 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 10:42:06,606 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 10:42:06,608 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-15 10:42:06,610 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 10:42:06,610 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\spring-sample-rabbitmq\src\test\resources
+2019-03-15 10:44:22,317 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @4024408ms to org.eclipse.jetty.util.log.Slf4jLog
+2019-03-15 10:44:22,440 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-22T00:27:37+03:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2019-03-15 10:44:22,466 [Start Help Server] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2019-03-15 10:44:22,467 [Start Help Server] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2019-03-15 10:44:22,468 [Start Help Server] INFO  org.eclipse.jetty.server.session - Scavenging every 660000ms
+2019-03-15 10:44:22,497 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@5ff20795{/help,null,AVAILABLE}
+2019-03-15 10:44:22,520 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@53f25c8{HTTP/1.1,[http/1.1]}{127.0.0.1:53009}
+2019-03-15 10:44:22,520 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @4024611ms
+2019-03-15 10:44:52,465 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-15 10:44:54,798 [Worker-55] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\Exercise\spring-boot-rabbitmq-training\spring-sample-rabbitmq
+2019-03-15 10:44:54,798 [Worker-55] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U -Dmaven.test.skip=true -DskipTests clean install
+2019-03-15 10:45:01,426 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-15 10:45:02,591 [Worker-55] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\Exercise\spring-boot-rabbitmq-training\spring-sample-rabbitmq
+2019-03-15 10:45:02,592 [Worker-55] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U -Dmaven.test.skip=true -DskipTests clean install
+2019-03-15 10:45:35,559 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 10:45:35,560 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-15 10:45:35,561 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 10:45:35,561 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-15 10:45:35,959 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 10:45:35,959 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 10:45:35,961 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-15 10:45:35,962 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 10:45:35,962 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\spring-sample-rabbitmq\src\test\resources
+2019-03-15 10:47:04,459 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 10:47:04,460 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-15 10:47:04,461 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 10:47:04,461 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-15 10:47:04,646 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 10:47:04,647 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 10:47:04,648 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-15 10:47:04,650 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 10:47:04,650 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\spring-sample-rabbitmq\src\test\resources
+2019-03-15 10:47:20,145 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 10:47:20,146 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\main\resources
+2019-03-15 10:47:20,149 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 10:47:20,149 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\src\test\resources
+2019-03-15 10:47:20,343 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 10:47:20,344 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 10:47:20,345 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-15 10:47:20,347 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 10:47:20,347 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\spring-sample-rabbitmq\src\test\resources
+2019-03-15 10:47:23,259 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-15 10:47:24,889 [Worker-62] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\Exercise\spring-boot-rabbitmq-training\spring-sample-rabbitmq
+2019-03-15 10:47:24,889 [Worker-62] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U -Dmaven.test.skip=true -DskipTests clean install
+2019-03-15 10:47:35,600 [Worker-58] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-15 10:47:35,965 [Worker-58] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.sample.rabbitmq:spring-sample-rabbitmq:0.0.1-SNAPSHOT @ C:\workspace\Exercise\spring-boot-rabbitmq-training\spring-sample-rabbitmq\pom.xml.
+2019-03-15 10:47:36,142 [Worker-58] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rabbit.exercise:rabbit-mq-exercise:1.0.0 @ C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\pom.xml.
+2019-03-15 10:47:36,638 [Worker-58] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-sample-rabbitmq/src/main/java
+2019-03-15 10:47:36,638 [Worker-58] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-sample-rabbitmq/src/main/resources
+2019-03-15 10:47:36,639 [Worker-58] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-sample-rabbitmq/src/main/resources
+2019-03-15 10:47:36,639 [Worker-58] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-sample-rabbitmq/src/test/java
+2019-03-15 10:47:36,798 [Worker-58] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-03-15 10:47:42,234 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 10:47:42,234 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 10:47:42,244 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-15 10:47:42,247 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 10:47:42,247 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\spring-sample-rabbitmq\src\test\resources
+2019-03-15 10:53:56,868 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 10:53:56,869 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 10:53:56,871 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-15 10:53:56,872 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 10:53:56,872 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\spring-sample-rabbitmq\src\test\resources
+2019-03-15 10:54:13,442 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 10:54:13,443 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 10:54:13,444 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-15 10:54:13,445 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 10:54:13,446 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\spring-sample-rabbitmq\src\test\resources
+2019-03-17 17:01:56,691 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-17 21:20:05,030 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-17 21:21:13,762 [Worker-17] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project rabbit-mq-exercise.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project rabbit-mq-exercise.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1705) ~[org.eclipse.jdt.launching_3.9.100.v20180323-1351.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1580) ~[org.eclipse.jdt.launching_3.9.100.v20180323-1351.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.9.0.v20170207-1454.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:309) [org.eclipse.m2e.jdt_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.3.v20180115-1757.jar:na]
+2019-03-17 21:21:13,777 [Worker-17] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project rabbit-mq-exercise.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project rabbit-mq-exercise.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1705) ~[org.eclipse.jdt.launching_3.9.100.v20180323-1351.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1580) ~[org.eclipse.jdt.launching_3.9.100.v20180323-1351.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.9.0.v20170207-1454.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:310) [org.eclipse.m2e.jdt_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.3.v20180115-1757.jar:na]
+2019-03-17 21:21:13,793 [Worker-17] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project rabbit-mq-exercise.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project rabbit-mq-exercise.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1705) ~[org.eclipse.jdt.launching_3.9.100.v20180323-1351.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1580) ~[org.eclipse.jdt.launching_3.9.100.v20180323-1351.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.9.0.v20170207-1454.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2166) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:384) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:250) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:220) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:173) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:311) [org.eclipse.m2e.jdt_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.3.v20180115-1757.jar:na]
+2019-03-17 21:32:03,460 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-17 21:32:07,114 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rabbit.exercise:rabbit-mq-exercise:1.0.0 @ C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbit-mq-exercise\pom.xml.
+2019-03-17 21:32:07,278 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.sample.rabbitmq:spring-sample-rabbitmq:0.0.1-SNAPSHOT @ C:\workspace\Exercise\spring-boot-rabbitmq-training\spring-sample-rabbitmq\pom.xml.
+2019-03-18 10:36:08,317 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-18 11:08:24,127 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-03 10:25:18,055 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-03 10:36:17,335 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-03 14:56:38,727 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-03 15:01:57,331 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.amqp.tutorials:rabbitmq-amqp-tutorials:0.0.1-SNAPSHOT @ C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbitmq-amqp-tutorials\pom.xml.
+2019-04-03 15:01:57,960 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-amqp/2.0.0.RELEASE/spring-boot-starter-amqp-2.0.0.RELEASE.pom
+2019-04-03 15:01:58,167 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-amqp/2.0.0.RELEASE/spring-boot-starter-amqp-2.0.0.RELEASE.pom
+2019-04-03 15:01:58,631 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/rabbitmq/http-client/1.3.1.RELEASE/http-client-1.3.1.RELEASE.pom
+2019-04-03 15:01:59,076 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/rabbitmq/http-client/1.3.1.RELEASE/http-client-1.3.1.RELEASE.pom
+2019-04-03 15:01:59,527 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/com/rabbitmq/http-client/1.3.1.RELEASE/http-client-1.3.1.RELEASE.pom
+2019-04-03 15:02:00,189 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/rabbitmq/http-client/1.3.1.RELEASE/http-client-1.3.1.RELEASE.pom
+2019-04-03 15:02:00,381 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/rabbitmq/http-client/1.3.1.RELEASE/http-client-1.3.1.RELEASE.pom
+2019-04-03 15:02:00,971 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-amqp/2.0.0.RELEASE/spring-boot-starter-amqp-2.0.0.RELEASE.jar
+2019-04-03 15:02:01,260 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-amqp/2.0.0.RELEASE/spring-boot-starter-amqp-2.0.0.RELEASE.jar
+2019-04-03 15:02:01,443 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/rabbitmq/http-client/1.3.1.RELEASE/http-client-1.3.1.RELEASE.jar
+2019-04-03 15:02:01,700 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.jar
+2019-04-03 15:02:01,885 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9.jar
+2019-04-03 15:02:02,283 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/rabbitmq/http-client/1.3.1.RELEASE/http-client-1.3.1.RELEASE.jar
+2019-04-03 15:02:02,468 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.jar
+2019-04-03 15:02:02,666 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9.jar
+2019-04-03 15:02:02,744 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/com/rabbitmq/http-client/1.3.1.RELEASE/http-client-1.3.1.RELEASE.jar
+2019-04-03 15:02:02,805 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.jar
+2019-04-03 15:02:02,870 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9.jar
+2019-04-03 15:02:02,978 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/rabbitmq/http-client/1.3.1.RELEASE/http-client-1.3.1.RELEASE.jar
+2019-04-03 15:02:03,341 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/rabbitmq/http-client/1.3.1.RELEASE/http-client-1.3.1.RELEASE.jar
+2019-04-03 15:02:03,450 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.jar
+2019-04-03 15:02:04,786 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.jar
+2019-04-03 15:02:04,880 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9.jar
+2019-04-03 15:02:05,332 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9.jar
+2019-04-03 15:02:08,179 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rabbitmq-amqp-tutorials/src/main/java
+2019-04-03 15:02:08,180 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rabbitmq-amqp-tutorials/src/main/resources
+2019-04-03 15:02:08,191 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rabbitmq-amqp-tutorials/src/main/resources
+2019-04-03 15:02:08,203 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rabbitmq-amqp-tutorials/src/test/java
+2019-04-03 15:02:13,037 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 20 sec
+2019-04-03 15:02:39,765 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-04-03 15:02:48,426 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbitmq-amqp-tutorials
+2019-04-03 15:02:48,429 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U -Dmaven.test.skip=true -DskipTests clean install
+2019-04-03 15:30:59,385 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 15:30:59,389 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-03 15:30:59,406 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-03 15:30:59,413 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 15:30:59,418 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbitmq-amqp-tutorials\src\test\resources
+2019-04-03 15:36:44,381 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 15:36:44,387 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-03 15:36:44,392 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-03 15:36:44,397 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 15:36:44,397 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbitmq-amqp-tutorials\src\test\resources
+2019-04-03 15:37:27,102 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 15:37:27,103 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-03 15:37:27,104 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-03 15:37:27,106 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 15:37:27,112 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbitmq-amqp-tutorials\src\test\resources
+2019-04-03 15:38:42,148 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 15:38:42,154 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-03 15:38:42,160 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-03 15:38:42,165 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 15:38:42,165 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbitmq-amqp-tutorials\src\test\resources
+2019-04-03 15:39:59,957 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 15:39:59,958 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-03 15:39:59,964 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-03 15:39:59,969 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 15:39:59,972 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbitmq-amqp-tutorials\src\test\resources
+2019-04-03 15:40:07,054 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/spring-core/5.0.4.RELEASE/spring-core-5.0.4.RELEASE-sources.jar
+2019-04-03 15:40:13,770 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-core/5.0.4.RELEASE/spring-core-5.0.4.RELEASE-sources.jar
+2019-04-03 15:40:13,832 [Worker-55] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:5.0.4.RELEASE
+2019-04-03 15:40:25,701 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-04-03 15:40:25,713 [Worker-60] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbitmq-amqp-tutorials
+2019-04-03 15:40:25,717 [Worker-60] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U -Dmaven.test.skip=true -DskipTests clean install
+2019-04-03 15:40:42,837 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 15:40:42,844 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-03 15:40:42,847 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-03 15:40:42,852 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 15:40:42,853 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbitmq-amqp-tutorials\src\test\resources
+2019-04-03 15:41:04,108 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 15:41:04,109 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-03 15:41:04,113 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-03 15:41:04,118 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 15:41:04,122 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbitmq-amqp-tutorials\src\test\resources
+2019-04-03 16:13:01,037 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 16:13:01,042 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-03 16:13:01,047 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-03 16:13:01,052 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 16:13:01,052 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbitmq-amqp-tutorials\src\test\resources
+2019-04-03 16:13:57,374 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 16:13:57,375 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-03 16:13:57,376 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-03 16:13:57,378 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 16:13:57,378 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbitmq-amqp-tutorials\src\test\resources
+2019-04-03 16:14:58,626 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 16:14:58,628 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-03 16:14:58,630 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-03 16:14:58,638 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 16:14:58,638 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbitmq-amqp-tutorials\src\test\resources
+2019-04-03 16:15:52,468 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 16:15:52,469 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-03 16:15:52,473 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-03 16:15:52,478 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 16:15:52,482 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbitmq-amqp-tutorials\src\test\resources
+2019-04-03 16:16:20,757 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 16:16:20,761 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-03 16:16:20,765 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-03 16:16:20,770 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 16:16:20,770 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbitmq-amqp-tutorials\src\test\resources
+2019-04-03 16:16:42,133 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 16:16:42,133 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-03 16:16:42,135 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-03 16:16:42,137 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 16:16:42,142 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbitmq-amqp-tutorials\src\test\resources
+2019-04-03 16:17:40,007 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 16:17:40,011 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-03 16:17:40,015 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-03 16:17:40,019 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 16:17:40,019 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbitmq-amqp-tutorials\src\test\resources
+2019-04-03 16:18:11,125 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 16:18:11,125 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-03 16:18:11,130 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-03 16:18:11,137 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 16:18:11,140 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbitmq-amqp-tutorials\src\test\resources
+2019-04-03 16:21:38,078 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 16:21:38,082 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-03 16:21:38,087 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-03 16:21:38,092 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 16:21:38,092 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbitmq-amqp-tutorials\src\test\resources
+2019-04-03 17:06:11,073 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 17:06:11,073 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-03 17:06:11,074 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-03 17:06:11,076 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 17:06:11,076 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\Exercise\spring-boot-rabbitmq-training\rabbitmq-amqp-tutorials\src\test\resources
+2019-04-05 16:32:53,159 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-16 09:00:28,105 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
